@@ -191,6 +191,13 @@ This repository contains a categorized list of Windows applications.
 - [VLC Media Player](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player.
 - [MPC-HC](https://mpc-hc.org/) - An extremely lightweight, open source media player for Windows.
 - [PotPlayer](https://potplayer.daum.net/) - A versatile multimedia player with various customizable options.
+- [KMPlayer](http://www.kmplayer.com/) - A free media player that supports a wide range of codecs and formats.
+- [GOM Player](https://www.gomlab.com/gomplayer-media-player/) - A free media player with built-in support for most video formats.
+- [Media Player Classic - Black Edition (MPC-BE)](https://sourceforge.net/projects/mpcbe/) - A free and open source audio and video player for Windows.
+- [5KPlayer](https://www.5kplayer.com/) - A free media player that supports 4K, 5K, and 1080p HD videos.
+- [DivX Player](https://www.divx.com/en/software/divx/) - A high-quality video player known for its ability to play DivX files.
+- [ACG Player](https://www.microsoft.com/en-us/p/acg-player/9wzdncrfj3gp) - A free, lightweight media player available on the Microsoft Store.
+- [SMPlayer](https://www.smplayer.info/) - A free media player with built-in codecs that can play virtually all video and audio formats.
 
 ### Audio Players
 
