@@ -285,9 +285,16 @@ This repository contains a categorized list of Windows applications.
 
 ### System Cleaners
 
+- [Microsoft PC Manager](https://pcmanager.microsoft.com/) - A utility to optimize system performance, clean up unnecessary files, manage startup programs, and enhance security.
 - [CCleaner](https://www.ccleaner.com/) - A utility to clean unwanted files and invalid Windows Registry entries.
 - [BleachBit](https://www.bleachbit.org/) - Free up space and guard your privacy.
 - [Wise Disk Cleaner](https://www.wisecleaner.com/wise-disk-cleaner.html) - A free disk cleaner and defragmenter.
+- [Glary Utilities](https://www.glarysoft.com/glary-utilities/) - An all-in-one utility to clean your PC, fix registry issues, and manage startup programs.
+- [Advanced SystemCare](https://www.iobit.com/en/advancedsystemcarefree.php) - A comprehensive PC optimization tool to clean, optimize, speed up, and protect your system.
+- [Auslogics Disk Defrag](https://www.auslogics.com/en/software/disk-defrag/) - A tool to defragment and optimize your drives for better performance.
+- [AVG TuneUp](https://www.avg.com/en-us/avg-pctuneup) - A PC performance optimizer that cleans your system and speeds up your PC.
+- [CleanMyPC](https://macpaw.com/cleanmypc) - A PC cleaner and performance optimizer that helps keep your system clean and running smoothly.
+- [SlimCleaner Free](https://www.slimwareutilities.com/slimcleaner.php) - A free system optimizer that uses community feedback to recommend system improvements.
 
 ### Compression Tools
 
