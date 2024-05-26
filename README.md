@@ -233,9 +233,23 @@ This repository contains a categorized list of Windows applications.
 
 ### Antivirus
 
-- [Bitdefender](https://www.bitdefender.com/) - Advanced antivirus and cyber security solutions.
-- [Kaspersky](https://www.kaspersky.com/) - Comprehensive protection against various cyber threats.
-- [Avast](https://www.avast.com/) - Free antivirus software for Windows.
+- [Bitdefender](https://www.bitdefender.com/) - Advanced antivirus and cybersecurity solutions, offering real-time protection and multi-layered ransomware defense.
+- [Kaspersky](https://www.kaspersky.com/) - Comprehensive protection against a wide range of cyber threats, including malware, ransomware, and phishing attacks.
+- [Avast](https://www.avast.com/) - Free antivirus software for Windows, providing essential protection with additional features like network security and password management.
+- [Norton](https://us.norton.com/) - Robust antivirus software with advanced security features, including identity theft protection and secure VPN.
+- [McAfee](https://www.mcafee.com/) - Reliable antivirus protection with additional tools for web security, system optimization, and secure file storage.
+- [ESET](https://www.eset.com/) - Lightweight and powerful antivirus solution, known for its fast scanning and minimal impact on system performance.
+- [Trend Micro](https://www.trendmicro.com/) - Comprehensive antivirus and internet security software, offering strong protection against malware and advanced threats.
+- [Sophos](https://www.sophos.com/) - Enterprise-level security for home users, with features like parental controls, ransomware protection, and privacy safeguards.
+- [Webroot](https://www.webroot.com/) - Cloud-based antivirus with lightning-fast scans and minimal system impact, providing real-time threat intelligence and identity protection.
+- [Panda Security](https://www.pandasecurity.com/) - Versatile antivirus solutions with a focus on simplicity and usability, offering features like VPN, parental controls, and real-time protection.
+- [AVG](https://www.avg.com/) - Free antivirus with essential protection against malware, spyware, and ransomware, plus additional features like web and email protection.
+- [Malwarebytes](https://www.malwarebytes.com/) - Comprehensive malware removal tool with real-time protection against advanced threats, ransomware, and phishing.
+- [F-Secure](https://www.f-secure.com/) - Reliable antivirus and internet security software with strong protection against malware, ransomware, and online threats.
+- [Comodo](https://www.comodo.com/) - Free antivirus with advanced security features like auto-sandbox technology, secure shopping, and firewall protection.
+- [Avira](https://www.avira.com/) - Free antivirus solution with real-time protection, privacy tools, and system optimization features.
+- [ZoneAlarm](https://www.zonealarm.com/) - Antivirus and firewall solution providing comprehensive security against viruses, malware, and online threats.
+- [BullGuard](https://www.bullguard.com/) - Antivirus software with strong malware detection and additional features like secure browsing, identity protection, and parental controls.
 
 ### Anti-Malware
 
