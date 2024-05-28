@@ -45,6 +45,7 @@ This repository contains a categorized list of Windows applications.
   - [Game Clients](#game-clients)
   - [Emulators](#emulators)
   - [Game Recording](#game-recording)
+  - [Android Emulators](#android-emulators)
 - [Internet and Communication](#internet-and-communication)
   - [Browsers](#browsers)
   - [Email Clients](#email-clients)
@@ -333,6 +334,19 @@ This repository contains a categorized list of Windows applications.
 - [OBS Studio](https://obsproject.com/) - Free and open-source software for video recording and live streaming.
 - [Fraps](http://www.fraps.com/) - Real-time video capture and benchmarking.
 - [Bandicam](https://www.bandicam.com/) - Screen recording software.
+
+### Android Emulators
+
+- [BlueStacks](https://www.bluestacks.com/) - A popular Android emulator for Windows and Mac that focuses on gaming performance.
+- [Gameloop](https://www.gameloop.com/) - An official Android emulator from Tencent, optimized for running mobile games on PC, especially popular titles like PUBG Mobile and Call of Duty Mobile.
+- [NoxPlayer](https://www.bignox.com/) - A free Android emulator that offers a smooth gaming experience with customizable controls.
+- [LDPlayer](https://www.ldplayer.net/) - An Android emulator optimized for gaming, providing high performance and compatibility.
+- [MEmu Play](https://www.memuplay.com/) - An Android emulator for PC that offers high performance and a variety of features for gamers.
+- [Genymotion](https://www.genymotion.com/) - An Android emulator for app development and testing, offering advanced features and cloud integration.
+- [Andy](https://www.andyroid.net/) - An Android emulator that enables seamless synchronization between desktop and mobile devices.
+- [Phoenix OS](http://www.phoenixos.com/en/) - An Android-based operating system that can be installed on PCs for a full Android experience.
+- [PrimeOS](https://primeos.in/) - An Android-based operating system designed to bring the Android experience to desktop computers with a focus on productivity.
+- [KoPlayer](http://www.koplayer.com/) - An Android emulator designed to run Android games and apps smoothly on a PC.
 
 ## Internet and Communication
 
