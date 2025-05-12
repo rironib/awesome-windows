@@ -4,11 +4,12 @@ This repository contains a categorized list of Windows applications.
 
 ## Categories
 
-- [Windows ISO Files](#windows-iso-files)
-  - [Windows 11](#windows-11)
-  - [Windows 10](#windows-10)
-  - [Windows 8.1](#windows-81)
-  - [Windows 7](#windows-7)
+- [Operating Systems](#operating-systems)
+  - [Windows](#windows)
+  - [Linux Distributions](#linux-distributions)
+  - [BSD Variants](#bsd-variants)
+  - [ChromeOS and Derivatives](#chromeos-and-derivatives)
+  - [Other Operating Systems](#other-operating-systems)
 - [Productivity](#productivity)
   - [Office Suites](#office-suites)
   - [Note-Taking](#note-taking)
@@ -97,23 +98,70 @@ This repository contains a categorized list of Windows applications.
 
 ---
 
-## Windows ISO Files
 
-### Windows 11
+## Operating Systems
 
-- [Windows 11 ISO](https://www.microsoft.com/en-us/software-download/windows11) - Get the latest version of Windows 11 directly from Microsoft.
+### Windows
+- [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) - Get the latest version of Windows 11 directly from Microsoft.
+- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) - Download the latest version of Windows 10 from Microsoft's official website.
+- [Windows 8.1](https://www.microsoft.com/en-us/software-download/windows8ISO) - Download Windows 8.1 directly from Microsoft.
+- [Windows 7](https://www.microsoft.com/en-us/software-download/windows7) - Get the ISO file for Windows 7 from Microsoft's official website.
 
-### Windows 10
+### Linux Distributions
 
-- [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) - Download the latest version of Windows 10 from Microsoft's official website.
+- [Ubuntu](https://ubuntu.com/download) - A popular user-friendly Debian-based Linux distribution.
+- [Fedora](https://getfedora.org/) - A cutting-edge Linux distro backed by Red Hat.
+- [Debian](https://www.debian.org/distrib/) - A stable and universal operating system used as the base for many distros.
+- [Arch Linux](https://archlinux.org/download/) - A lightweight and flexible Linux distribution that follows a rolling release model.
+- [Linux Mint](https://linuxmint.com/download.php) - An elegant, easy-to-use Linux distro based on Ubuntu.
+- [Manjaro](https://manjaro.org/download/) - A user-friendly spin on Arch Linux.
+- [Kali Linux](https://www.kali.org/get-kali/) - A security-focused Debian-based distribution used for penetration testing.
 
-### Windows 8.1
+### BSD Variants
 
-- [Windows 8.1 ISO](https://www.microsoft.com/en-us/software-download/windows8ISO) - Download Windows 8.1 directly from Microsoft.
+- [FreeBSD](https://www.freebsd.org/where/) - A free and open-source Unix-like operating system.
+- [OpenBSD](https://www.openbsd.org/ftp.html) - A security-focused BSD operating system.
 
-### Windows 7
+### ChromeOS and Derivatives
 
-- [Windows 7 ISO](https://www.microsoft.com/en-us/software-download/windows7) - Get the ISO file for Windows 7 from Microsoft's official website.
+- [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) - A lightweight version of ChromeOS by Google designed to run on legacy PCs and Macs.
+- [Chromium OS](https://www.chromium.org/chromium-os/) - The open-source version of ChromeOS maintained by the Chromium Project.
+- [FydeOS](https://fydeos.io/) - A Chromium OS-based project with added support for Android apps and Linux.
+- [CloudReady (Archived)](https://www.neverware.com/freedownload) - A ChromeOS alternative by Neverware, now merged into ChromeOS Flex.
+
+
+### Other Operating Systems
+
+#### Hobbyist & Experimental
+
+- [TempleOS](https://templeos.holyc.xyz/) - A lightweight biblical-themed OS created by Terry A. Davis.
+- [Redox OS](https://www.redox-os.org/) - A Unix-like operating system written in Rust from scratch.
+- [SerenityOS](https://serenityos.org/) - A graphical Unix-like OS with a retro look and modern internals.
+- [MenuetOS](http://www.menuetos.net/) - A real-time operating system written entirely in assembly language.
+
+#### Security & Privacy-Focused
+
+- [Tails](https://tails.net/) - A live OS focused on privacy and anonymity, running entirely from USB/DVD.
+- [Qubes OS](https://www.qubes-os.org/) - A security-oriented OS using virtualization to compartmentalize applications.
+- [Whonix](https://www.whonix.org/) - A security and privacy-focused OS based on Debian and Tor.
+
+#### Educational & Lightweight
+
+- [KolibriOS](https://kolibrios.org/en/) - A tiny and fast OS written in assembly, fits on a floppy disk.
+- [FreeDOS](https://www.freedos.org/) - An open-source DOS-compatible operating system for running legacy software.
+
+#### Enterprise & Research
+
+- [OpenIndiana](https://www.openindiana.org/) - A continuation of OpenSolaris for desktops and servers.
+- [illumos](https://illumos.org/) - A modern, open-source OS derived from OpenSolaris, focusing on reliability.
+- [Plan 9 from Bell Labs](https://9p.io/plan9/) - A distributed OS developed by the creators of Unix.
+- [Inferno](https://www.vitanuova.com/inferno/) - A research OS designed for distributed systems and portable applications.
+
+#### Alternative OS Projects
+
+- [ReactOS](https://reactos.org/) - An open-source operating system aiming for full compatibility with Windows apps and drivers.
+- [Haiku](https://www.haiku-os.org/) - An open-source OS inspired by BeOS, focused on personal computing.
+
 
 ## Productivity
 
