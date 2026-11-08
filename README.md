@@ -326,6 +326,8 @@ This repository contains a categorized list of Windows applications.
 
 ## Utilities
 
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Windows 11 workspace launcher with configurable hold triggers, browser profiles, URLs, and saved display layouts (preview).
+
 ### File Management
 
 - [Total Commander](https://www.ghisler.com/) - A file manager for Windows.
